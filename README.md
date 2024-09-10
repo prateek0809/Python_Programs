@@ -12,7 +12,7 @@ This repository contains Python programs developed for practice, covering a rang
 
 ## Structure
 
-Each file corresponds to a different Python concept or problem, with comments and explanations to help understand the logic.
+Each file corresponds to a different Python concept or problem.
 
 ## How to Use
 
@@ -22,15 +22,14 @@ Each file corresponds to a different Python concept or problem, with comments an
    ```
 
 2. Navigate to the directory of the specific program:
-```bash
-cd Python_Programs
-```
+   ```bash
+   cd Python_Programs
+   ```
 
 3. Run the Python script:
-```bash
-Copy code
-python filename.py
-```
+   ```bash
+   python filename.py
+   ```
 
 ## Contributions
 Feel free to fork this repository, submit issues, or make pull requests for improvements!
